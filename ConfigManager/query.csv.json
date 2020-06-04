@@ -1,0 +1,19 @@
+{
+    "Query": {
+        "TC_001": {
+            "Test Case Number": "TC_001",
+            "Source Owner": "HR",
+            "Source Table": "LOCATIONS",
+            "Source Attribute": "*",
+            "Source clause": "country_id in('CA','UK','DE')",
+            "Source Join type": "Nil",
+            "Source Join Condition": "Nil",
+            "Staging Owner": "SCOTT",
+            "Staging Table": "LOCATIONS_STG",
+            "Staging Attribute": "*",
+            "Staging clause": "country_id in('CA','UK','DE')",
+            "Staging join type": "Nil",
+            "Staging Join Condition": "Nil"
+        }
+    }
+}

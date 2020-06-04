@@ -1,0 +1,12 @@
+ID,Date,DateType,Age,Sex,Race,ResidenceCity,ResidenceCounty,ResidenceState,DeathCity,DeathCounty,Location,LocationifOther,DescriptionofInjury,InjuryPlace,InjuryCity,InjuryCounty,InjuryState,COD,OtherSignifican,Heroin,Cocaine,Fentanyl,FentanylAnalogue,Oxycodone,Oxymorphone,Ethanol,Hydrocodone,Benzodiazepine,Methadone,Amphet,Tramad,Morphine_NotHeroin,Hydromorphone,Other,OpiateNOS,AnyOpioid,MannerofDeath,DeathCityGeo,ResidenceCityGeo,InjuryCityGeo
+14-0273,6/28/2014 0:00,DateReported,,,,,,,,,,,substance,,,,,"Acute fent, hydrocod, benzodiazepine",,,,Y,,,,,Y,Y,,,,,,,,,Accident,"CT
+(41.575155, -72.738288)","CT
+(41.575155, -72.738288)","CT
+(41.575155, -72.738288)"
+13-0102,3/21/2013 0:00,DateofDeath,48,Male,Black,NORWALK,,,NORWALK,FAIRFIELD,Hospital,,,,,,,Cocaine Intoxication,,,Y,,,,,,,,,,,,,,,,Accident,"Norwalk, CT
+(41.11805, -73.412906)","NORWALK, CT
+(41.11805, -73.412906)","CT
+(41.575155, -72.738288)"
+16-0165,3/13/2016 0:00,DateofDeath,30,Female,White,SANDY HOOK,FAIRFIELD,CT,DANBURY,,Hospital,,Substance Abuse,Unknown,UNKNOWN,,,Acute Heroin and Cocaine Intoxication,,Y,Y,,,,,,,,,,,,,,,Y,Accident,"Danbury, CT
+(41.393666, -73.451539)","SANDY HOOK, CT
+(41.419998, -73.282501)",

@@ -1,0 +1,2 @@
+Test Case Number,Source Owner,Source Table,Source Attribute,Source clause,Source Join type,Source Join Condition,Staging Owner,Staging Table,Staging Attribute,Staging clause,Staging join type,Staging Join Condition
+TC_001,HR,LOCATIONS,*,"country_id in('CA','UK','DE')",Nil,Nil,SCOTT,LOCATIONS_STG,*,"country_id in('CA','UK','DE')",Nil,Nil
